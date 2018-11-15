@@ -1,4 +1,4 @@
 gym
-tensorflow
-keras
 numpy
+tensorflow==1.5
+keras
